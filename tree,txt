@@ -7,9 +7,9 @@ vite-web-2/
 |   |-- App.jsx
 |   |-- App.css
 |   |-- pages/
-|       |-- Home.vue
-|       |-- About.vue
-|       |-- Contact.vue
+|       |-- Home.jsx
+|       |-- About.jsx
+|       |-- Contact.jsx
 |   |-- assets
 |       |-- react.svg
 |-- .gitignore
