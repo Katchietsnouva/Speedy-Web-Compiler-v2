@@ -1,0 +1,38 @@
+vite-web-2/
+|-- node_modules/
+|-- public/
+|-- src/
+|   |-- main.jsx
+|   |-- index.css
+|   |-- App.jsx
+|   |-- App.css
+|   |-- pages/
+|       |-- Home.vue
+|       |-- About.vue
+|       |-- Contact.vue
+|   |-- assets
+|       |-- react.svg
+|-- .gitignore
+|-- index.html
+|-- package.json
+|-- README.md
+|-- vite.config.js
+
+
+<!-- vite-web-2/
+|-- node_modules/
+|-- public/
+|-- src/
+|   |-- main.js
+|   |-- App.vue
+|   |-- pages/
+|       |-- Home.vue
+|       |-- About.vue
+|       |-- Contact.vue
+|-- .gitignore
+|-- index.html
+|-- package.json
+|-- README.md
+|-- vite.config.js
+
+ -->
